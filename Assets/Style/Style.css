@@ -1,0 +1,28 @@
+.front {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20%;
+}
+
+#SubTitle {
+    text-align: center;
+}
+
+#FirstM {
+    word-wrap: normal;
+}
+
+.btn {
+    height: 55px;
+    
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
