@@ -15,7 +15,9 @@
 
 .btn {
     height: 55px;
-    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .card {
